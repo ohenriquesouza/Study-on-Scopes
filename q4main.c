@@ -8,5 +8,7 @@ int main()
     
     x = 42;
 
+    printf("%d", x);
+    
     return 0;
 }
