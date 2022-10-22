@@ -1,3 +1,5 @@
+// dynamic and static scoping
+
 var x = 15;
 
 function dinamico1(x){

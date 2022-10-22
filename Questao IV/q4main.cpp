@@ -1,3 +1,5 @@
+// dynamic and static scoping
+
 #include <stdio.h>
 
 int main()
@@ -7,8 +9,8 @@ int main()
     int x;
     
     x = 42;
-
-    printf("%d", x);
+    
+    std::cout<<x<<std::endl;
     
     return 0;
 }

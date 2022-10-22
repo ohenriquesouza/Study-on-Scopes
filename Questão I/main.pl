@@ -18,3 +18,4 @@ print "x dinâmico: ";
 print g()."\n";
 
 print "x estático : $ x";
+
